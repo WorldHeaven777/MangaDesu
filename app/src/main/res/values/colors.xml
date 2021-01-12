@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application Colors -->
+    <color name="colorPrimary">@color/md_white_1000</color>
+    <color name="colorPrimaryInactive">#C2424242</color>
+    <color name="colorPrimaryDark">@color/md_white_1000</color>
+    <color name="app_color_primary">#54759E</color>
+    <color name="splashBackground">@color/app_color_primary</color>
+    <color name="fullRippleColor">#C2C2C2</color>
+    <color name="rippleColor">@color/md_black_1000_12</color>
+    <color name="colorAccent">@color/md_blue_A400</color>
+    <color name="actionModeShadow">@color/md_black_1000_38</color>
+    <color name="gray_button">#404040</color>
+
+    <color name="read_chapter">@color/text_color_hint</color>
+    <color name="unread_chapter">@color/textColorPrimary</color>
+    <color name="bookmarked_chapter">@color/colorAccent</color>
+
+    <color name="unread_badge">@color/colorAccent</color>
+    <color name="unread_badge_text">@color/md_white_1000</color>
+    <color name="download_badge">@color/pale_green</color>
+    <color name="download_badge_text">@color/md_black_1000</color>
+    <color name="total_badge">@color/material_deep_purple_500</color>
+    <color name="total_badge_text">@color/md_white_1000</color>
+
+    <color name="colorAmoledPrimary">@color/md_black_1000</color>
+
+    <color name="textColorPrimary">@color/md_black_1000_87</color>
+    <color name="textColorPrimaryInverse">@color/md_white_1000</color>
+
+    <color name="strong_divider">@color/md_black_1000_38</color>
+    <color name="divider">@color/md_black_1000_12</color>
+    <color name="badgeColor">@color/material_red_accent_700</color>
+    <color name="download">@color/material_green_800</color>
+
+    <color name="background">@color/md_grey_50</color>
+    <color name="dialog">@color/md_white_1000</color>
+
+    <!-- Text Colors -->
+    <color name="md_black_1000_87">#DE000000</color>
+    <color name="md_black_1000_54">#8A000000</color>
+    <color name="md_black_1000_38">#61000000</color>
+    <color name="md_black_1000_12">#1F000000</color>
+
+    <color name="md_white_1000">#FFFFFFFF</color>
+    <color name="md_white_1000_76">#C2FFFFFF</color>
+    <color name="md_white_1000_54">#8AFFFFFF</color>
+    <color name="md_white_1000_50">#80FFFFFF</color>
+    <color name="md_white_1000_20">#33FFFFFF</color>
+    <color name="md_white_1000_38">#61FFFFFF</color>
+    <color name="md_white_1000_12">#1FFFFFFF</color>
+
+    <!-- Material Design Colors -->
+    <color name="md_black_1000">#000000</color>
+
+    <color name="md_grey_50">#FAFAFA</color>
+    <color name="md_grey_800">#424242</color>
+    <color name="md_grey_800_85">#DF424242</color>
+
+    <color name="md_blue_A400">#2979FF</color>
+
+    <color name="md_red_500">#F44336</color>
+
+    <color name="pale_green">#99CC99</color>
+</resources>
